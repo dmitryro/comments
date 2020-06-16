@@ -1,0 +1,83 @@
+.clear {
+    clear:both;
+}
+.commentRow {
+    min-width:96.35%;
+}
+.wrap {
+    width:100%;
+    border-left: 1px dotted #E5E6E6;
+}
+.default {
+     width:100%;
+}
+.commentPrefix1 {
+    float:left;
+    height:100%;
+    min-height:20px;
+    width: 49%;
+    border-right: 1px dotted #E5E6E6;
+}
+
+.commentPrefix2 {
+    float:left;
+    height:100%;
+    min-height:20px;
+    width: 51%;
+}
+.commentMain {
+    height:100%;
+    width: 99%;
+}
+.commentBody {
+    margin:0px 0 -5px 0px;
+    padding: 0px 0 5px 10px;
+    color: #666C7A;
+}
+.commentBodyTop {
+    margin:0px 0 -5px 0px;
+    padding: 10px 0 5px 10px;
+    border-top: 1px solid #E5E6E6;
+    color: #666C7A;
+}
+.postPanel {
+    background: #F7F7F7;
+    border-top: 1px solid ;
+    width: 100%;
+    height:30px;
+}
+.commenControls {
+    border-left: 1px #666C7A dotted;
+    padding: 10px 15px 10px 15px;
+    margin-left:10px;
+    color: #666C7A;
+}
+
+.commentLink {
+    font-size: 0.85em; 
+    color: #666C7A;
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+}
+.commentLink a {
+    text-decoration:underline;
+}
+.commentLink a:hover {
+    text-decoration: none;
+}
+.controlLink {
+    font-size: 0.85em;
+    color:#666C7A;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration:underline;
+}
+
+.controlLink a{
+    text-decoration:underline;
+}
+
+.controlLink a:hover {
+    text-decoration: none;
+}
+
