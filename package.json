@@ -131,7 +131,7 @@
     "mobx-session": "^1.0.0",
     "moment":"^2.26.0",
     "moment-locales-webpack-plugin": "^1.2.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "optimize-css-assets-webpack-plugin":"^5.0.3",
     "polished": "^3.6.5",
     "path-to-regexp": "5.0.0",
